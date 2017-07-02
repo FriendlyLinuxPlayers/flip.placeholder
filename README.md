@@ -9,3 +9,6 @@ is done.
 This code is freely available on
 [GitHub](https://github.com/FriendlyLinuxPlayers/flip.placeholder) under the terms of
 the GNU AGPL version 3. See `LICENSE` for details.
+
+By participating in this community, you agree to abide by the terms of our
+[Code of Conduct](https://friendlylinuxplayers.org/conduct).
