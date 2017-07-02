@@ -11,4 +11,4 @@ This code is freely available on
 the GNU AGPL version 3. See `LICENSE` for details.
 
 By participating in this community, you agree to abide by the terms of our
-[Code of Conduct](https://friendlylinuxplayers.org/conduct).
+[Code of Conduct](https://FriendlyLinuxPlayers.org/conduct).
