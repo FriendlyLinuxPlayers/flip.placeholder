@@ -7,7 +7,7 @@ community until the [main one](https://gitlab.com/FriendlyLinuxPlayers/flip.eart
 is done.
 
 This code is freely available on
-[GitHub](https://gitlab.com/FriendlyLinuxPlayers/flip.placeholder) under the terms of
+[GitLab](https://gitlab.com/FriendlyLinuxPlayers/flip.placeholder) under the terms of
 the GNU AGPL version 3. See `LICENSE` for details.
 
 By participating in this community, you agree to abide by the terms of our
